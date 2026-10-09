@@ -21,11 +21,11 @@ README互动快照：2026-10-09通过原帖读取6619赞、520转发。只表示
 - [结构化文本](references/sources/posts/posts-corpus.json)
 - [全部帖子索引](references/knowledge/posts-topic-index.json)：1111条全部保留，关键词未命中的记录也在。
 
-## 页面只使用三张图片
+## 图片来源与当前展示
 
 | 文件 | 来源 | 用途 |
 |---|---|---|
-| `assets/interview-cover-ai.png` | [指定访谈原帖](https://x.com/AlanShao111/status/2108406850727076182)，[原图](https://pbs.twimg.com/media/HUIkbsIbYAAML93.jpg?name=orig) | README首屏；基于原封面经AI辅助改编，保留人物访谈构图，重新设计背景与文字，不是原发布者提供的新版封面 |
+| `assets/interview-cover-ai.png` | [指定访谈原帖](https://x.com/AlanShao111/status/2108406850727076182)，[原图](https://pbs.twimg.com/media/HUIkbsIbYAAML93.jpg?name=orig) | 已从README移除，文件仅作历史素材保留；基于原封面经AI辅助改编，保留人物访谈构图，重新设计背景与文字，不是原发布者提供的新版封面 |
 | `assets/alan-avatar.jpg` | [Alan的X主页](https://x.com/AlanShao111)，[头像文件](https://pbs.twimg.com/profile_images/2086673168098570240/6K719ph7_200x200.jpg) | 人物识别；主页公开资料确认同一头像 |
 | `assets/lifestyle.png` | 用户指定图片；[对应Alan公开帖子](https://x.com/AlanShao111/status/2098887661918536127) | 生活方式梗图；图中原署名为@thegymhighlights，不标作Alan住宅实拍 |
 

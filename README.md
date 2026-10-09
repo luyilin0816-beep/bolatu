@@ -1,13 +1,8 @@
 <h1 align="center">薄拉图.skill 🙏</h1>
 
-<p align="center">
-  <a href="https://x.com/AlanShao111/status/2108406850727076182">
-    <img src="assets/interview-cover-ai.png" width="960" alt="邵艾伦 × 孙宇晨访谈封面（AI辅助改编）：AI时代，年轻人怎么开始？">
-  </a>
-</p>
-
-<p align="center"><b>邵艾伦（硅基版） · 年轻人的认知升级补丁</b></p>
-<p align="center">薄肌负责升级肉体，薄拉图负责给脑子打补丁。</p>
+<blockquote>
+<p align="center"><em>薄肌负责升级肉体，薄拉图负责给脑子打补丁。</em></p>
+</blockquote>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Interview-4h_22m-DC2626?style=flat-square" alt="完整访谈 4小时22分钟">
@@ -16,9 +11,28 @@
   <img src="https://img.shields.io/badge/Project-Unofficial-6B7280?style=flat-square" alt="非官方项目">
 </p>
 
+<p align="center"><b>邵艾伦（硅基版） · 年轻人的认知升级补丁</b></p>
+
 <p align="center">
-  <b>重点蒸馏：邵艾伦 × 孙宇晨《年轻人如何抓住 AI 时代的机会？》</b>
+想做自媒体，怕熟人看到？<br>
+AI 教程收藏了三个月，工作流一点没变？<br>
+想换工作、试新方向，又不知道第一步怎么走？
 </p>
+
+<p align="center">
+把你的条件、纠结和已经做过的尝试拿来。<br>
+用邵艾伦的思路分析选择，聊清理由，找到眼下能做的一步。
+</p>
+
+<p align="center"><b>有偏好，会玩梗，也得听劝。你可以继续追问，也可以当场反驳。</b></p>
+
+<p align="center">
+<b>重点蒸馏：邵艾伦 × 孙宇晨《年轻人如何抓住 AI 时代的机会？》</b><br>
+完整 4 小时 22 分钟访谈机器转写，加上 1111 条本人公开帖文。<br>
+双方观点、追问、玩笑和分歧，一起保留。
+</p>
+
+<p align="center"><sub>非官方模拟思维顾问，原作者未参与或背书。</sub></p>
 
 <p align="center">
   <a href="#先把问题拿来">能聊什么</a> ·
@@ -55,7 +69,7 @@ AI 教程收藏了三个月，工作流一点没变。
 
 ## 一场热门访谈，听完之后呢？
 
-上面这张封面，你可能已经刷到过了。
+这场访谈里聊到的问题，可以在这里继续追问。
 
 邵艾伦和孙宇晨聊了 **4 小时 22 分钟**。从年轻人怎么开始，到 AI、赚钱、身体、自由、关系，再到人这辈子到底要玩什么。
 
