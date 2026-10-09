@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://x.com/AlanShao111/status/2108406850727076182">
-    <img src="assets/interview-cover.jpg" width="960" alt="邵艾伦 × 孙宇晨访谈原封面：版本答案、孙学、薄肌、黄毛">
+    <img src="assets/interview-cover-ai.png" width="960" alt="邵艾伦 × 孙宇晨访谈封面（AI辅助改编）：AI时代，年轻人怎么开始？">
   </a>
 </p>
 
